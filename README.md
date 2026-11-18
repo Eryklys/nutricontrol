@@ -148,3 +148,11 @@ A proposta foi demonstrar os conhecimentos adquiridos durante a disciplina e exp
 ---
 
 **Observação:** O NutriControl possui finalidade acadêmica e demonstrativa. O cálculo de IMC apresentado não substitui uma avaliação nutricional profissional.
+
+## Demonstração do sistema:
+
+![Interface inicial](imagens_nutricontrol/interface_passo1.png)
+
+![Preenchimento dos dados](imagens_nutricontrol/interface_passo2.png)
+
+![Resultado do cálculo](imagens_nutricontrol/interface_resultado.png)
