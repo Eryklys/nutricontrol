@@ -151,8 +151,14 @@ A proposta foi demonstrar os conhecimentos adquiridos durante a disciplina e exp
 
 ## Demonstração do sistema:
 
+1. Interface inicial
+
 ![Interface inicial](imagens_nutricontrol/interface_passo1.png)
 
+2. Preenchimento dos dados
+
 ![Preenchimento dos dados](imagens_nutricontrol/interface_passo2.png)
+
+3. Resultado do cálculo
 
 ![Resultado do cálculo](imagens_nutricontrol/interface_resultado.png)
